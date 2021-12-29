@@ -37,5 +37,7 @@ workflows:
   say-hello-workflow:
     jobs:
       - Build
+      - Test
+    
 
       
