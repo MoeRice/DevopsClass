@@ -24,8 +24,6 @@ workflows:
   say-hello-workflow:
     jobs:
       - Build
-      - Build
-      - Build
-      - Build
-      - Build
+store_test_results:
+path: test-results
       
