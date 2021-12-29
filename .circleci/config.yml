@@ -24,3 +24,8 @@ workflows:
   say-hello-workflow:
     jobs:
       - Build
+      - Build
+      - Build
+      - Build
+      - Build
+      
